@@ -1,0 +1,36 @@
+.introducao{
+    display: inline-flex;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: px;
+    height: 80px;
+    
+}
+.ft{
+    margin-top: 16px;
+    height: 60px;
+}
+.pp{
+font-family: lora;
+margin-top: 35px;
+color: grey;
+                }
+.pr{
+    margin-left: 100px;
+    font-family: lora;
+    margin-top: 35px;   
+    color: 123458;
+}
+.pf{
+    font-family: lora;
+    margin-top: 35px;
+    color: white;
+    background-color:123458;
+    border-radius: 5px;
+}
+.espaco{
+    background-color: #dddddd;
+}
